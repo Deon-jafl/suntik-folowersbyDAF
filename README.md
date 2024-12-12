@@ -1,5 +1,5 @@
-# suntik-folowersbyDAF
-<!DOCTYPE html>
+# SUNTIK FOLOWER BYDAF
+<DAF STORE>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
